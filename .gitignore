@@ -6,3 +6,6 @@ bin/
 *.vspx
 *.psess
 *.rar
+/.vs
+/.gitignore
+/.gitignore
