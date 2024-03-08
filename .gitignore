@@ -6,3 +6,6 @@ bin/
 *.vspx
 *.psess
 *.rar
+/.vs
+/Properties/Resources.Designer.cs
+/LiveSplit.RedFaction.csproj
